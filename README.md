@@ -1,4 +1,3 @@
-Markdown
 # Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
@@ -7,15 +6,15 @@ proyectos y mis intereses.
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
-* 
+
 ## Información personal
 * Nombre: Eduardo Sanchez
 * Ocupación: Estudiante
 * Lugar de residencia: Ecuador/Guayaquil
-* Sitio web: 
-* 
+* Sitio web:
+
 ## Proyectos
 * [Lista de tus proyectos]
-* 
+
 ## Intereses
 * [Lista de tus intereses
