@@ -1,6 +1,5 @@
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+Mi nombre es Eduardo, estoy estudiando Ingenieria en Computación para ser un futuro desarrollador de videojuegos.
 
 ## Contenido
 * [Información personal](#información-personal)
