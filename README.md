@@ -11,10 +11,13 @@ proyectos y mis intereses.
 * Nombre: Eduardo Sanchez
 * Ocupación: Estudiante
 * Lugar de residencia: Ecuador/Guayaquil
-* Sitio web:
+* Sitio web: https://edu-gab.github.io/Curriculum-Vitae/
 
 ## Proyectos
-* [Lista de tus proyectos]
+* Curriculum Vitae: https://edu-gab.github.io/Curriculum-Vitae/
+* Landing Page: https://edu-gab.github.io/Landing/
 
 ## Intereses
-* [Lista de tus intereses
+* Musica Japonesa (City Pop - Jazz Japones)
+* Videjuegos
+* Libros de Ciencia Ficcion
